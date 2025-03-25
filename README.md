@@ -1,4 +1,4 @@
-![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1354219051903353033/image.png?ex=67e47e46&is=67e32cc6&hm=8e1b4aa24337a31bd5b5ec105bec5fa8fd80a99e6071d5f22b903711f64c8520&=&format=webp&quality=lossless&width=657&height=960)  
+![Mod Menu Banner](https://cdn.discordapp.com/attachments/1345742664355680547/1354223459990896660/image.png?ex=67e48261&is=67e330e1&hm=fdbacfbae53aeef639a3fe696222d1c7b358e8525a6bd07713e816adf931bcca&format=webp&quality=lossless)  
 
 ## Aether Mango Reborn Template
 
